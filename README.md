@@ -1,10 +1,14 @@
 # spotify-player
 interface that allows you to play music on spotify
 
-###1
+## DOWNLOAD THESE
 ```
 pip install Pillow
+```
+```
 pip install tkinter
+```
+```
 pip install spotipy
 ```
 
