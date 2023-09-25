@@ -20,7 +20,7 @@ ight i know you lazy so it only takes 2 minutes...
 4. Enter your **client id** and **client secret** on **LINE 11 AND 12** of the code
 
 
-if your not stupid or f up you should do this fine. 
+if your not stupid or f up somehow, this should run fine...
 
 problems. 
 - redirects you to localhost everytime you click the interface, theres a workaround but im too lazy
