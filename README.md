@@ -7,6 +7,7 @@ pip install Pillow
 pip install tkinter
 pip install spotipy
 ```
+if pip dont work try pip3, if that doesn't work make sure ur python ver is up to date.
 
 
 # YOU NEED YOUR MAKE YOUR OWN **CLIENT ID** AND **CLIENT SECRET** FOR THIS TO WORK! 
