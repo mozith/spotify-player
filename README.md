@@ -6,6 +6,7 @@ an interface that allows you to play music on spotify
 pip install Pillow
 pip install tkinter
 pip install spotipy
+pip install ttkthemes
 ```
 if pip dont work try pip3, if that doesn't work make sure ur python ver is up to date.
 
